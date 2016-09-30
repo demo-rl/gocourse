@@ -16,6 +16,8 @@ mkdir ~/gocourse
 cd ~/gocourse
 mkdir src pkg bin
 
+# Put a reference of the GOPATH to yoour environment
+export GOPATH=~/gocourse
 
 
 
